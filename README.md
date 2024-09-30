@@ -6,17 +6,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-I am heejun lee. Pronouns he/him. I born in korea but I lived in texas. My favorite game is EA SPORTS FC 24 and league of legends. 
+I am heejun lee. Pronouns he/him. I born in korea but I lived in texas. My favorite game is EA SPORTS FC 24 and league of legends. As i play, i hope to get a little better with each game, and i hope that this class will help my favorite game develop further so that everyone can play it without difficulty and with ease every time they play.
 2. Which of the following best describes your major? Please specify if not GDIM.  
-
+Art major, drawing and painting
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. What are you hoping to get out of this class? I want to learn how to make games and how to improve existing games further.
+4. What, if anything, are you nervous about for this class? I didn't learn about computer programming and I am not good at using computer. That makes me nervous.
 
 ## Prior Experience
 
