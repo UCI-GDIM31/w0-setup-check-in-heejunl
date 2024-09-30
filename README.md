@@ -15,8 +15,10 @@ Art major, drawing and painting
     - [ ] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class? I want to learn how to make games and how to improve existing games further.
-4. What, if anything, are you nervous about for this class? I didn't learn about computer programming and I am not good at using computer. That makes me nervous.
+3. What are you hoping to get out of this class?
+   I want to learn how to make games and how to improve existing games further.
+5. What, if anything, are you nervous about for this class?
+   I didn't learn about computer programming and I am not good at using computer. That makes me nervous.
 
 ## Prior Experience
 
